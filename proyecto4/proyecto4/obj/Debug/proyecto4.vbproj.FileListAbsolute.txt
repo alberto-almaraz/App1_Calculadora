@@ -34,3 +34,15 @@ C:\Alberto 24720\App1_Calculadora-main2\App1_Calculadora-main\proyecto4\proyecto
 C:\Alberto 24720\App1_Calculadora-main2\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.exe
 C:\Alberto 24720\App1_Calculadora-main2\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.pdb
 C:\Alberto 24720\App1_Calculadora-main2\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.xml
+C:\Alberto 24720\App1_Calculadora-main2\2\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.exe.config
+C:\Alberto 24720\App1_Calculadora-main2\2\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.exe
+C:\Alberto 24720\App1_Calculadora-main2\2\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.pdb
+C:\Alberto 24720\App1_Calculadora-main2\2\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.xml
+C:\Alberto 24720\App1_Calculadora-main2\2\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.vbprojAssemblyReference.cache
+C:\Alberto 24720\App1_Calculadora-main2\2\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.Form1.resources
+C:\Alberto 24720\App1_Calculadora-main2\2\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.Resources.resources
+C:\Alberto 24720\App1_Calculadora-main2\2\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.vbproj.GenerateResource.cache
+C:\Alberto 24720\App1_Calculadora-main2\2\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.vbproj.CoreCompileInputs.cache
+C:\Alberto 24720\App1_Calculadora-main2\2\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.exe
+C:\Alberto 24720\App1_Calculadora-main2\2\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.xml
+C:\Alberto 24720\App1_Calculadora-main2\2\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.pdb

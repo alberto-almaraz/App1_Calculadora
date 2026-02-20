@@ -119,4 +119,8 @@
     Private Sub textbox1_TextChanged(sender As Object, e As EventArgs) Handles textbox1.TextChanged
 
     End Sub
+
+    Private Sub textbox2_TextChanged(sender As Object, e As EventArgs) Handles textbox2.TextChanged
+
+    End Sub
 End Class
